@@ -1,1 +1,0 @@
-Buenas profe, en los archivos de valgrind, al querer redireccionar la salida se guardaba en estos lo mismo que en la ejecucion basica, por ende aclaro, hice copy paste de los mensajes de la terminal para ambos txt.
